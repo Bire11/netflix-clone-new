@@ -1,0 +1,14 @@
+
+.App {
+  /* text-align: center; */
+  /* background: #111; */
+  /* color: #fff; */
+}
+@media screen and (max-width: 576px) {
+  .App {
+  
+    display: flex;
+    flex-direction: column !important;
+    height: auto;
+  }
+}
